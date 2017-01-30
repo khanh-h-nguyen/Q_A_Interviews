@@ -17,6 +17,7 @@ https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 http://babeljs.io/
 
 ## AngularJS 1.5
+https://www.quora.com/What-are-some-AngularJS-interview-questions
 1. Difference between Angular Factory vs. Services vs. Provider:
 
 https://www.youtube.com/watch?v=aqY5H95DZ8w&t=742s
