@@ -23,3 +23,8 @@ https://www.youtube.com/watch?v=aqY5H95DZ8w&t=742s
 https://toddmotto.com/factory-versus-service
 
 https://blog.thoughtram.io/angular/2015/07/07/service-vs-factory-once-and-for-all.html
+
+
+# Java
+## Java Core:
+http://www.javainterview.in/p/core-java-interview-question-are.html
