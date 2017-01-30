@@ -2,6 +2,9 @@
 ## JavaScript Interview
 https://youtu.be/057Rs6CgJnY
 
+## FullStack Developer:
+https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
+
 ## AngularJS 1.5
 1. Difference between Angular Factory vs. Services vs. Provider:
 
