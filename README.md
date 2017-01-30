@@ -2,6 +2,13 @@
 ## JavaScript Interview
 https://youtu.be/057Rs6CgJnY
 
+Ecma6 Changes:
+http://es6-features.org/#ExpressionBodies
+
+JavaScript 3 dots:
+https://rainsoft.io/how-three-dots-changed-javascript/
+
+
 ## FullStack Developer:
 https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 
