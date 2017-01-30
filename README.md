@@ -24,7 +24,11 @@ https://toddmotto.com/factory-versus-service
 
 https://blog.thoughtram.io/angular/2015/07/07/service-vs-factory-once-and-for-all.html
 
+https://dl.dropboxusercontent.com/u/18385692/www.simplygoodcode.com/angularjs-provider-cheat-sheet.pdf?__s=vzfygfzoutkycpfi4oxv
+
 
 # Java
 ## Java Core:
 http://www.javainterview.in/p/core-java-interview-question-are.html
+
+
